@@ -35,3 +35,4 @@ coverage/
 *.local
 *.tmp
 *.bak
+food-delivery-lambda.zip
